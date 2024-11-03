@@ -644,6 +644,7 @@ require('lazy').setup({
             },
           },
         },
+        rust_analyzer = {},
         sqlls = {},
         stylelint_lsp = {},
         ts_ls = {},
